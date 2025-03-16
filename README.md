@@ -1,6 +1,6 @@
 # Yoga Pose Detection Web Application
 
-### By: Peethala V Siva Sampath Likhit  
+### Developed By: Peethala V Siva Sampath Likhit  
 
 This project involves developing a web-based application for **Yoga Pose Detection**. The goal of this application is to use deep learning models to identify various yoga poses from an uploaded image. The app also displays reference images for different yoga poses and provides a user-friendly interface built with **Streamlit**.
 
